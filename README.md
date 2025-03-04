@@ -29,9 +29,10 @@ For building and running the application you need:
 
 ### Features
 
-![Books](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Books.png)
-![addBook](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/addBook.png)
-![search](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/search.png)
-![Authors](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Authors.png)
-![Categories](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Categories.png)
-![Publishers](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Publishers.png)
+![Books](https://github.com/priyanka1-p/Library-Management-System/blob/main/Photo/Books.png)
+![addBook](https://github.com/priyanka1-p/Library-Management-System/blob/main/Photo/AddBook.png)
+![search](https://github.com/priyanka1-p/Library-Management-System/blob/main/Photo/search.png)
+![Authors](https://github.com/priyanka1-p/Library-Management-System/blob/main/Photo/Authors.png)
+![Categories](https://github.com/priyanka1-p/Library-Management-System/blob/main/Photo/Search%20Categories.png)
+![Publishers](https://github.com/priyanka1-p/Library-Management-System/blob/main/Photo/Publishers.png)
+
